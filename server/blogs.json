@@ -1,0 +1,18 @@
+{
+    "blogs":[
+        {
+            "id": 1,
+            "content":"HTML CONTENT",
+            "image":"https://www.olcbd.net/wp-content/uploads/2018/05/html-800x445.jpg",
+            "subTitle":"HTML SUB",
+            "title":"HTML"
+        },
+        {
+            "id": 1,
+            "content":"HTML CONTENT",
+            "image":"https://www.olcbd.net/wp-content/uploads/2018/05/html-800x445.jpg",
+            "subTitle":"HTML SUB",
+            "title":"HTML"
+        }
+    ]
+}
